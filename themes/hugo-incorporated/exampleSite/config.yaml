@@ -1,0 +1,52 @@
+---
+
+baseurl:            http://blog.nilproductions.com/
+pygmentsuseclasses: true 
+theme:              hugo-incorporated
+
+params:
+  inc:
+    # Blog Information
+    title:        "Hugo Incorporated"
+    subtitle:     "Modern Hugo based blog for companies"
+    cover_image:  blog-cover.jpg
+    logo:         logo.png
+    
+    # Company information
+    company:      nil productions 
+    url:          http://nilproductions.com/
+#    facebook:     
+    github:       nilproductions
+    twitter:      nw_iw
+#    gplus:        ''
+    about_link:   http://nilproductions.com/about/
+    
+    # Product Information
+    product_link: http://nilproductions.com/
+    tagline:      "Coming up nil for quite some time."
+    
+    # Comments
+# PNK    disqus:
+# PNK      # Set a shortname to enable disqus comments
+# PNK#      shortname:  false
+# PNK    
+# PNK    # Sharing settings
+# PNK    sharing:
+# PNK      twitter:    false
+# PNK      facebook:   false
+# PNK      gplus:      false
+# PNK      hn:         false
+# PNK      
+# PNK    
+# PNK   # Analytics     
+# PNK    analytics:
+# PNK#      googleid: UA-00000000-0
+# PNK#      piwik:
+# PNK#        domain: piwik.example.com
+# PNK#        siteid: 0
+# PNK        
+# PNK    # Google Fonts
+# PNK    # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+# PNK    google_font: 'Droid+Sans:400,700'
+    
+    # Setup your fonts, colors etc at _assets/stylesheets/main.scss
