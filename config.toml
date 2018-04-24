@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://brazopharm.github.io/pharmacy"
 languageCode = "en-us"
-title = "BlackTie.co | Free Bootstrap Themes"
+title = "Brazo Pharmacy Landing Page"
 theme = "hugo-smpl-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
